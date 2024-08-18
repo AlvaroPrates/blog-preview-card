@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](./assets/images/screenshot.png)
 
 ### Links
 
@@ -41,9 +41,7 @@ Users should be able to:
 
 I don't think I learned anything new because I already had theoretical knowledge among the techniques used, but the project was cool to practice my coding skills, mainly CSS Flexbox.
 
-I'm proud that I added comments to organize the CSS a little better (compared to the last qr-code project). 
-
-Also I tried to use the CSS multiselector to compress the styling code.
+I'm proud that I added comments to organize the CSS a little better (compared to the last qr-code project). I've also tried to use the CSS multiselector to compress the styling code.
 
 ### Continued development
 
