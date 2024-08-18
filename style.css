@@ -25,6 +25,8 @@
     box-shadow: 8px 8px hsl(0, 0%, 7%);;
 }
 
+/* Post image */
+
 .card-img {
     display: block;
     width: 100%;
@@ -35,6 +37,8 @@
 .card-description {
     font-family: 'Figtree';
 }
+
+/* Post description */
 
 .post-category {
     background-color: hsl(47, 88%, 63%);
@@ -77,6 +81,8 @@
     line-height: 1.5;
     margin-bottom: 24px;
 }
+
+/* Post author */
 
 .author-container {
     display: flex;
